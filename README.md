@@ -18,13 +18,15 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
-**[ClawBench](https://github.com/reacher-z/ClawBench)** &nbsp; ![Stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=flat&color=6155F5) ![Forks](https://img.shields.io/github/forks/reacher-z/ClawBench?style=flat&color=30B0C7)
-<br>Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, 8 categories.
-<br>[![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
+**[ClawBench](https://github.com/reacher-z/ClawBench)** — Can AI Agents Complete Everyday Online Tasks?
+> 153 tasks · 144 live websites · 8 categories · Best model: 33.3%
+>
+> [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
-**[VidGround](https://github.com/reacher-z/vidground)** &nbsp; ![Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=flat&color=6155F5)
-<br>Watch Before You Answer: Learning from Visually Grounded Post-Training for video LLMs.
-<br>[![arXiv](https://img.shields.io/badge/arXiv-2604.05117-FF3B30?style=flat)](https://arxiv.org/abs/2604.05117) [![HF Paper](https://img.shields.io/badge/HF%20Paper-2604.05117-34C759?style=flat)](https://huggingface.co/papers/2604.05117)
+**[VidGround](https://github.com/reacher-z/vidground)** — Watch Before You Answer
+> Visually grounded post-training for video LLMs.
+>
+> [Paper](https://arxiv.org/abs/2604.05117) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
 ---
 
