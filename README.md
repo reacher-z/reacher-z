@@ -22,13 +22,6 @@ PhD student at **University of British Columbia** · Research on AI Agents, Mult
 <a href="https://github.com/reacher-z/ClawBench">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&theme=gruvbox" />
 </a>
-<a href="https://github.com/reacher-z/gpu-monitor">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=gpu-monitor&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/reacher-z/CelebHair">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=CelebHair&theme=gruvbox" />
-</a>
 <a href="https://github.com/reacher-z/vidground">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&theme=gruvbox" />
 </a>
@@ -47,7 +40,6 @@ PhD student at **University of British Columbia** · Research on AI Agents, Mult
 
 - **2026.04** — 📄 New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523) — 153 real-world tasks, 144 live websites, 7 frontier models evaluated. Best model achieves only 33.3%.
   - 🌐 [Dashboard](https://claw-bench.com) · 🤗 [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · 📦 [PyPI](https://pypi.org/project/clawbench-eval/)
-- **2025** — 🖥️ Released [**gpu-monitor**](https://github.com/reacher-z/gpu-monitor) — Real-time multi-node GPU monitoring dashboard (149+ ⭐)
 
 ---
 
