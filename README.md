@@ -1,6 +1,6 @@
 ## Hi, I'm Yuxuan Zhang
 
-PhD student at **University of British Columbia** · Research on AI Agents, LLM, RL
+PhD student at **Vector Institute** & **University of British Columbia** · Research on AI Agents, LLM, RL
 
 [![Website](https://img.shields.io/badge/Website-reacher--z.github.io-6155F5?style=flat-square&logo=google-chrome&logoColor=white)](https://reacher-z.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@ReacherZhang-6155F5?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ReacherZhang)
