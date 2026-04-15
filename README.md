@@ -1,6 +1,6 @@
-## Hi, I'm Yuxuan (Reacher) Zhang 👋
+## Hi, I'm Yuxuan Zhang 👋
 
-PhD student at **University of British Columbia** · Research on AI Agents, Multimodal Understanding & Generation
+PhD student at **University of British Columbia** · Research on AI Agents, LLM, RL
 
 [![Website](https://img.shields.io/badge/Website-reacher--z.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://reacher-z.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@ReacherZhang-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ReacherZhang)
@@ -11,9 +11,8 @@ PhD student at **University of British Columbia** · Research on AI Agents, Mult
 ### 🔬 Research Interests
 
 - **AI Agents** — Browser agents, task automation, real-world evaluation
-- **Multimodal Understanding** — Vision-language models, grounding
-- **Controllable Generative AI** — Image/video generation with fine-grained control
-- **Cognitive Abilities of Generative AI** — Reasoning, planning, tool use
+- **Large Language Models** — Reasoning, tool use, planning
+- **Reinforcement Learning** — Policy optimization, reward modeling
 
 ---
 
