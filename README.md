@@ -20,13 +20,13 @@ PhD student at **University of British Columbia** · Research on AI Agents, LLM,
 
 <div>
 <a href="https://github.com/reacher-z/ClawBench">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db&width=500" />
 </a>
 </div>
 
 <div>
 <a href="https://github.com/reacher-z/vidground">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db&width=500" />
 </a>
 </div>
 
