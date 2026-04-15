@@ -19,10 +19,11 @@ PhD student at **University of British Columbia** · Research on AI Agents, LLM,
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
 <a href="https://github.com/reacher-z/ClawBench">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=007AFF&text_color=333333&bg_color=00000000&border_color=d1d5db" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=007AFF&text_color=333333&bg_color=00000000&border_color=d1d5db" />
 </a>
+
 <a href="https://github.com/reacher-z/vidground">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=007AFF&text_color=333333&bg_color=00000000&border_color=d1d5db" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=007AFF&text_color=333333&bg_color=00000000&border_color=d1d5db" />
 </a>
 
 ---
