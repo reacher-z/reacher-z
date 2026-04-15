@@ -18,21 +18,27 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
+<div>
 <a href="https://github.com/reacher-z/ClawBench">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
 </a>
+</div>
 
+<div>
 <a href="https://github.com/reacher-z/vidground">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
 </a>
+</div>
 
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/chart-line.svg" width="22">&nbsp;&nbsp;GitHub Activity</h3>
 
-![GitHub Activity Graph](https://ghchart.rshah.org/6155F5/reacher-z)
+<img src="https://ghchart.rshah.org/6155F5/reacher-z" alt="GitHub Contribution Graph" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&hide_border=true" alt="Yuxuan Zhang's GitHub Stats" />
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&hide_border=true" alt="GitHub Stats" />
 
 ---
 
@@ -48,13 +54,9 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/paper-plane.svg" width="22">&nbsp;&nbsp;Contact</h3>
 
 <p>
-  <a href="mailto:yuxuan.zhang@ubc.ca"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/envelope.svg" width="16">&nbsp;yuxuan.zhang(at)ubc.ca</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/google-scholar.svg" width="16">&nbsp;Google Scholar</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/reacher-z"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/github.svg" width="16">&nbsp;GitHub</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ReacherZhang"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/x-twitter.svg" width="16">&nbsp;Twitter</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reacher-z.github.io"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/globe.svg" width="16">&nbsp;Website</a>
+<a href="mailto:yuxuan.zhang@ubc.ca"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/envelope.svg" width="16">&nbsp;yuxuan.zhang(at)ubc.ca</a> &nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/google-scholar.svg" width="16">&nbsp;Google Scholar</a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/reacher-z"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/github.svg" width="16">&nbsp;GitHub</a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ReacherZhang"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/x-twitter.svg" width="16">&nbsp;Twitter</a> &nbsp;&nbsp;&nbsp;
+<a href="https://reacher-z.github.io"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/globe.svg" width="16">&nbsp;Website</a>
 </p>
