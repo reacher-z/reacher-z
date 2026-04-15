@@ -18,27 +18,21 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
-<div>
 <a href="https://github.com/reacher-z/ClawBench">
-  <img width="660" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
 </a>
-</div>
-
-<div>
+&nbsp;
 <a href="https://github.com/reacher-z/vidground">
-  <img width="660" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
 </a>
-</div>
 
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/chart-line.svg" width="22">&nbsp;&nbsp;GitHub Activity</h3>
 
-<img width="660" src="https://ghchart.rshah.org/6155F5/reacher-z" alt="GitHub Contribution Graph" />
+<img src="https://ghchart.rshah.org/6155F5/reacher-z" alt="GitHub Contribution Graph" />
 
-<br>
-
-<img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&hide_border=true" alt="GitHub Stats" />
 
 ---
 
