@@ -18,13 +18,16 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
+<p>
 <a href="https://github.com/reacher-z/ClawBench">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&title_color=6155F5&icon_color=6155F5&border_color=d1d5db&border_radius=12" />
 </a>
-&nbsp;
+</p>
+<p>
 <a href="https://github.com/reacher-z/vidground">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&title_color=6155F5&icon_color=6155F5&border_color=d1d5db&border_radius=12" />
 </a>
+</p>
 
 ---
 
