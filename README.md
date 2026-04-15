@@ -8,14 +8,6 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/atom.svg" width="22">&nbsp;&nbsp;Research Interests</h3>
-
-- **AI Agents** — Browser agents, task automation, real-world evaluation
-- **Large Language Models** — Reasoning, tool use, planning
-- **Reinforcement Learning** — Policy optimization, reward modeling
-
----
-
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
 **[ClawBench](https://github.com/reacher-z/ClawBench)** — Can AI Agents Complete Everyday Online Tasks?
