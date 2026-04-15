@@ -2,9 +2,9 @@
 
 PhD student at **Vector Institute** & **University of British Columbia** · Research on AI Agents, LLM, RL
 
-[![Website](https://img.shields.io/badge/Website-reacher--z.github.io-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reacher-z.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-@ReacherZhang-FF9500?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ReacherZhang)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-AF52DE?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ)
+[![Website](https://img.shields.io/badge/Website-reacher--z.github.io-007AFF?style=flat&logo=google-chrome&logoColor=white)](https://reacher-z.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-@ReacherZhang-FF9500?style=flat&logo=x&logoColor=white)](https://twitter.com/ReacherZhang)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-AF52DE?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ)
 
 ---
 
@@ -39,9 +39,9 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/newspaper.svg" width="22">&nbsp;&nbsp;News</h3>
 
 - **2026.04** — New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523) — 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
-  - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=for-the-badge)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=for-the-badge)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=for-the-badge)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=for-the-badge)](https://pypi.org/project/clawbench-eval/)
+  - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
 - **2026.04** — New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117) — Visually grounded post-training for video LLMs.
-  - [![arXiv](https://img.shields.io/badge/arXiv-2604.05117-FF3B30?style=for-the-badge)](https://arxiv.org/abs/2604.05117) [![HF Paper](https://img.shields.io/badge/HF%20Paper-2604.05117-34C759?style=for-the-badge)](https://huggingface.co/papers/2604.05117)
+  - [![arXiv](https://img.shields.io/badge/arXiv-2604.05117-FF3B30?style=flat)](https://arxiv.org/abs/2604.05117) [![HF Paper](https://img.shields.io/badge/HF%20Paper-2604.05117-34C759?style=flat)](https://huggingface.co/papers/2604.05117)
 
 ---
 
