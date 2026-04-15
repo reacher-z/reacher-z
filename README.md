@@ -19,20 +19,41 @@ PhD student at **University of British Columbia** · Research on AI Agents, Mult
 
 ### 🏆 Top Projects
 
-<a href="https://github.com/reacher-z/ClawBench">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=ClawBench&theme=gruvbox" />
-</a>
-<a href="https://github.com/reacher-z/vidground">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reacher-z&repo=vidground&theme=gruvbox" />
-</a>
+<table>
+<tr>
+<td>
+
+**🤖 [ClawBench](https://github.com/reacher-z/ClawBench)**
+
+Can AI agents complete everyday online tasks? 153 real-world tasks across 144 live websites. Best model: 33.3%.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2604.08523-b31b1b?style=flat-square)](https://arxiv.org/abs/2604.08523)
+[![Dataset](https://img.shields.io/badge/🤗_Dataset-ClawBench-ffd21e?style=flat-square)](https://huggingface.co/datasets/NAIL-Group/ClawBench)
+[![Website](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat-square)](https://claw-bench.com)
+[![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-6155F5?style=flat-square)](https://pypi.org/project/clawbench-eval/)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🎬 [VidGround](https://github.com/reacher-z/vidground)**
+
+Video grounding framework for temporal localization in videos with natural language queries.
+
+[![GitHub](https://img.shields.io/badge/Code-vidground-6155F5?style=flat-square&logo=github)](https://github.com/reacher-z/vidground)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Activity
 
-![GitHub Activity Graph](https://ghchart.rshah.org/reacher-z)
+![GitHub Activity Graph](https://ghchart.rshah.org/6155F5/reacher-z)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&theme=gruvbox&hide_border=true" alt="Yuxuan's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Yuxuan's GitHub Stats" />
 
 ---
 
