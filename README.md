@@ -20,6 +20,16 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 >
 > [Paper](https://arxiv.org/abs/2604.05117) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
+**[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** — Your AI Research Assistant
+> A full-stack research workspace for taking projects from idea to paper.
+>
+> [Homepage](https://openlair.github.io/dr-claw) · [npm](https://www.npmjs.com/package/dr-claw) · [Releases](https://github.com/OpenLAIR/dr-claw/releases)
+
+**[OpenSkill](https://github.com/OpenLAIR/OpenSkill)** — Open-World Self-Evolution for LLM Agents
+> Builds both skills and verification signals from scratch, without target-task supervision.
+>
+> [Website](https://openlair.github.io/openskill/) · [Paper](https://arxiv.org/abs/2606.06741) · [HF Paper](https://huggingface.co/papers/2606.06741)
+
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/chart-line.svg" width="22">&nbsp;&nbsp;GitHub Activity</h3>
