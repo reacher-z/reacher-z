@@ -15,7 +15,7 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 >
 > [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
-**[VidGround](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers) — Watch Before You Answer
+**[VidGround: Watch Before You Answer](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers)
 > Visually grounded post-training for video LLMs.
 >
 > [Paper](https://arxiv.org/abs/2604.05117) · [HF Paper](https://huggingface.co/papers/2604.05117)
