@@ -10,25 +10,30 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
-**[ClawBench](https://github.com/reacher-z/ClawBench)** — Can AI Agents Complete Everyday Online Tasks?
+**[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers) — Can AI Agents Complete Everyday Online Tasks?
 > 153 tasks · 144 live websites · 8 categories · Best model: 33.3%
 >
 > [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
-**[VidGround](https://github.com/reacher-z/vidground)** — Watch Before You Answer
+**[VidGround](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers) — Watch Before You Answer
 > Visually grounded post-training for video LLMs.
 >
 > [Paper](https://arxiv.org/abs/2604.05117) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
-**[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** — Your AI Research Assistant
+**[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)](https://github.com/OpenLAIR/dr-claw/stargazers) — Your AI Research Assistant
 > A full-stack research workspace for taking projects from idea to paper.
 >
 > [Homepage](https://openlair.github.io/dr-claw) · [npm](https://www.npmjs.com/package/dr-claw) · [Releases](https://github.com/OpenLAIR/dr-claw/releases)
 
-**[OpenSkill](https://github.com/OpenLAIR/OpenSkill)** — Open-World Self-Evolution for LLM Agents
+**[OpenSkill](https://github.com/OpenLAIR/OpenSkill)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/OpenSkill?style=social)](https://github.com/OpenLAIR/OpenSkill/stargazers) — Open-World Self-Evolution for LLM Agents
 > Builds both skills and verification signals from scratch, without target-task supervision.
 >
 > [Website](https://openlair.github.io/openskill/) · [Paper](https://arxiv.org/abs/2606.06741) · [HF Paper](https://huggingface.co/papers/2606.06741)
+
+**[RewardHarness](https://github.com/TIGER-AI-Lab/RewardHarness)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers) — Self-Evolving Agentic Post-Training
+> A self-evolving agentic reward framework for image-editing evaluation.
+>
+> [Project Page](https://rewardharness.com) · [Paper](https://arxiv.org/abs/2605.08703) · [HF Paper](https://huggingface.co/papers/2605.08703) · [Releases](https://github.com/TIGER-AI-Lab/RewardHarness/releases/latest)
 
 ---
 
