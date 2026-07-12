@@ -1,36 +1,36 @@
 ## Hi, I'm Yuxuan Zhang
 
-PhD student at **Vector Institute** & **University of British Columbia** · Research on AI Agents, LLM, RL
+PhD student at **University of British Columbia** · Affiliated with **Vector Institute** · Research in AI Agents, LLMs, and RL
 
-[![Website](https://img.shields.io/badge/Website-reacher--z.github.io-007AFF?style=flat&logo=google-chrome&logoColor=white)](https://reacher-z.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-@ReacherZhang-FF9500?style=flat&logo=x&logoColor=white)](https://twitter.com/ReacherZhang)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-AF52DE?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ)
+[![Website](https://img.shields.io/badge/Website-yuxuan.world-007AFF?style=flat&logo=google-chrome&logoColor=white)](https://yuxuan.world)
+[![X](https://img.shields.io/badge/X-@ReacherZhang-000000?style=flat&logo=x&logoColor=white)](https://x.com/ReacherZhang)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-AF52DE?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CTY_8xgAAAAJ)
 
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
-**[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers) — Can AI Agents Complete Everyday Online Tasks?
-> 153 tasks · 144 live websites · 8 categories · Best model: 33.3%
+**[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://github.com/TIGER-AI-Lab/ClawBench)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers)
+> V1: 153 tasks · V2: 130 tasks · 144 live websites · 15 categories
 >
 > [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
 **[VidGround: Watch Before You Answer](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers)
 > Visually grounded post-training for video LLMs.
 >
-> [Paper](https://arxiv.org/abs/2604.05117) · [HF Paper](https://huggingface.co/papers/2604.05117)
+> [Paper](https://arxiv.org/abs/2604.05117) · [Project Page](https://vidground.etuagi.com/) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
-**[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)](https://github.com/OpenLAIR/dr-claw/stargazers) — Your AI Research Assistant
+**[Dr. Claw: Your AI Research Assistant](https://github.com/OpenLAIR/dr-claw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)](https://github.com/OpenLAIR/dr-claw/stargazers)
 > A full-stack research workspace for taking projects from idea to paper.
 >
 > [Homepage](https://openlair.github.io/dr-claw) · [npm](https://www.npmjs.com/package/dr-claw) · [Releases](https://github.com/OpenLAIR/dr-claw/releases)
 
-**[OpenSkill](https://github.com/OpenLAIR/OpenSkill)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/OpenSkill?style=social)](https://github.com/OpenLAIR/OpenSkill/stargazers) — Open-World Self-Evolution for LLM Agents
+**[OpenSkill: Open-World Self-Evolution for LLM Agents](https://github.com/OpenLAIR/OpenSkill)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/OpenSkill?style=social)](https://github.com/OpenLAIR/OpenSkill/stargazers)
 > Builds both skills and verification signals from scratch, without target-task supervision.
 >
 > [Website](https://openlair.github.io/openskill/) · [Paper](https://arxiv.org/abs/2606.06741) · [HF Paper](https://huggingface.co/papers/2606.06741)
 
-**[RewardHarness](https://github.com/TIGER-AI-Lab/RewardHarness)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers) — Self-Evolving Agentic Post-Training
+**[RewardHarness: Self-Evolving Agentic Post-Training](https://github.com/TIGER-AI-Lab/RewardHarness)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers)
 > A self-evolving agentic reward framework for image-editing evaluation.
 >
 > [Project Page](https://rewardharness.com) · [Paper](https://arxiv.org/abs/2605.08703) · [HF Paper](https://huggingface.co/papers/2605.08703) · [Releases](https://github.com/TIGER-AI-Lab/RewardHarness/releases/latest)
@@ -41,15 +41,13 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <img src="https://ghchart.rshah.org/6155F5/reacher-z" alt="GitHub Contribution Graph" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reacher-z&show_icons=true&title_color=6155F5&icon_color=6155F5&hide_border=true" alt="GitHub Stats" />
-
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/newspaper.svg" width="22">&nbsp;&nbsp;News</h3>
 
-- **2026.04** — New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523) — 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
+- **2026.04**: New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523); 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
   - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
-- **2026.04** — New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117) — Visually grounded post-training for video LLMs.
+- **2026.04**: New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117); visually grounded post-training for video LLMs.
   - [![arXiv](https://img.shields.io/badge/arXiv-2604.05117-FF3B30?style=flat)](https://arxiv.org/abs/2604.05117) [![HF Paper](https://img.shields.io/badge/HF%20Paper-2604.05117-34C759?style=flat)](https://huggingface.co/papers/2604.05117)
 
 ---
@@ -58,8 +56,8 @@ PhD student at **Vector Institute** & **University of British Columbia** · Rese
 
 <p>
 <a href="mailto:yuxuan.zhang@ubc.ca"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/envelope.svg" width="16">&nbsp;yuxuan.zhang(at)ubc.ca</a> &nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=FwjRgl8AAAAJ"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/google-scholar.svg" width="16">&nbsp;Google Scholar</a> &nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=CTY_8xgAAAAJ"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/google-scholar.svg" width="16">&nbsp;Google Scholar</a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/reacher-z"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/github.svg" width="16">&nbsp;GitHub</a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ReacherZhang"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/x-twitter.svg" width="16">&nbsp;Twitter</a> &nbsp;&nbsp;&nbsp;
-<a href="https://reacher-z.github.io"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/globe.svg" width="16">&nbsp;Website</a>
+<a href="https://x.com/ReacherZhang"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/x-twitter.svg" width="16">&nbsp;X</a> &nbsp;&nbsp;&nbsp;
+<a href="https://yuxuan.world"><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/globe.svg" width="16">&nbsp;Website</a>
 </p>
