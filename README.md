@@ -3,15 +3,27 @@
 PhD student at **University of British Columbia** · Affiliated with **Vector Institute** · Research in AI Agents, LLMs, and RL
 
 [![Website](https://img.shields.io/badge/Website-yuxuan.world-007AFF?style=flat&logo=google-chrome&logoColor=white)](https://yuxuan.world)
+[![Research Program](https://img.shields.io/badge/Research-Program-6155F5?style=flat&logo=semantic-scholar&logoColor=white)](https://yuxuan.world/research/)
 [![X](https://img.shields.io/badge/X-@ReacherZhang-000000?style=flat&logo=x&logoColor=white)](https://x.com/ReacherZhang)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-AF52DE?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CTY_8xgAAAAJ)
+
+---
+
+### Research Program
+
+I study how agentic AI can be **evaluated, trained, and improved in realistic
+environments**. My current work connects four research questions: real-world
+agent evaluation, inspectable self-improvement, efficient learning and
+information use, and evidence-grounded multimodal intelligence.
+
+**[Explore the bilingual research map →](https://yuxuan.world/research/)**
 
 ---
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
 **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://github.com/TIGER-AI-Lab/ClawBench)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers)
-> V1: 153 tasks · V2: 130 tasks · 144 live websites · 15 categories
+> V1 preprint: 153 tasks across 144 live platforms · Current V2 project: 130 tasks across 63 platforms
 >
 > [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
@@ -31,7 +43,7 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 > [Website](https://openlair.github.io/openskill/) · [Paper](https://arxiv.org/abs/2606.06741) · [HF Paper](https://huggingface.co/papers/2606.06741)
 
 **[RewardHarness: Self-Evolving Agentic Post-Training](https://github.com/TIGER-AI-Lab/RewardHarness)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social)](https://github.com/TIGER-AI-Lab/RewardHarness/stargazers)
-> A self-evolving agentic reward framework for image-editing evaluation.
+> COLM 2026 · A self-evolving agentic reward framework for image-editing evaluation.
 >
 > [Project Page](https://rewardharness.com) · [Paper](https://arxiv.org/abs/2605.08703) · [HF Paper](https://huggingface.co/papers/2605.08703) · [Releases](https://github.com/TIGER-AI-Lab/RewardHarness/releases/latest)
 
@@ -45,6 +57,7 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/newspaper.svg" width="22">&nbsp;&nbsp;News</h3>
 
+- **2026.08**: Launched a [**bilingual research-program map**](https://yuxuan.world/research/) connecting my current work on real-world agents, inspectable improvement, efficient learning, and grounded multimodal systems.
 - **2026.04**: New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523); 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
   - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
 - **2026.04**: New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117); visually grounded post-training for video LLMs.
