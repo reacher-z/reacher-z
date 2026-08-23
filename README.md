@@ -9,12 +9,20 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 ---
 
+### EMNLP 2026
+
+- **Main Conference:** [WebWorld](https://openreview.net/pdf/2a006ca014a3d40c8be1bafca190aebbc50419a0.pdf), [OpenSkill](https://arxiv.org/abs/2606.06741), and [VGI-BENCH](https://arxiv.org/abs/2608.19583)
+- **Findings:** [ClawBench](https://arxiv.org/abs/2604.08523)
+- **System Demonstrations:** [Dr. Claw](https://openlair.github.io/dr-claw/)
+
+---
+
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/rocket.svg" width="22">&nbsp;&nbsp;Top Projects</h3>
 
 **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://github.com/TIGER-AI-Lab/ClawBench)** [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers)
-> V1: 153 tasks · V2: 130 tasks · 144 live websites · 15 categories
+> EMNLP 2026 Findings · V1: 153 tasks · V2: 130 tasks · 144 live websites · 15 categories
 >
-> [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
+> [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/TIGER-Lab/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
 **[VidGround: Watch Before You Answer](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers)
 > Visually grounded post-training for video LLMs.
@@ -22,12 +30,12 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 > [Paper](https://arxiv.org/abs/2604.05117) · [Project Page](https://vidground.etuagi.com/) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
 **[Dr. Claw: Your AI Research Assistant](https://github.com/OpenLAIR/dr-claw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)](https://github.com/OpenLAIR/dr-claw/stargazers)
-> A full-stack research workspace for taking projects from idea to paper.
+> EMNLP 2026 System Demonstration · A full-stack research workspace for taking projects from idea to paper.
 >
 > [Homepage](https://openlair.github.io/dr-claw) · [npm](https://www.npmjs.com/package/dr-claw) · [Releases](https://github.com/OpenLAIR/dr-claw/releases)
 
 **[OpenSkill: Open-World Self-Evolution for LLM Agents](https://github.com/OpenLAIR/OpenSkill)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/OpenSkill?style=social)](https://github.com/OpenLAIR/OpenSkill/stargazers)
-> Builds both skills and verification signals from scratch, without target-task supervision.
+> EMNLP 2026 Main Conference · Builds both skills and verification signals from scratch, without target-task supervision.
 >
 > [Website](https://openlair.github.io/openskill/) · [Paper](https://arxiv.org/abs/2606.06741) · [HF Paper](https://huggingface.co/papers/2606.06741)
 
@@ -46,8 +54,9 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/newspaper.svg" width="22">&nbsp;&nbsp;News</h3>
 
+- **2026.08**: Five papers accepted at EMNLP 2026: [**WebWorld**](https://openreview.net/pdf/2a006ca014a3d40c8be1bafca190aebbc50419a0.pdf), [**OpenSkill**](https://arxiv.org/abs/2606.06741), and [**VGI-BENCH**](https://arxiv.org/abs/2608.19583) at the Main Conference; [**ClawBench**](https://arxiv.org/abs/2604.08523) in Findings; and [**Dr. Claw**](https://openlair.github.io/dr-claw/) in System Demonstrations.
 - **2026.04**: New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523); 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
-  - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/NAIL-Group/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
+  - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/TIGER-Lab/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
 - **2026.04**: New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117); visually grounded post-training for video LLMs.
   - [![arXiv](https://img.shields.io/badge/arXiv-2604.05117-FF3B30?style=flat)](https://arxiv.org/abs/2604.05117) [![HF Paper](https://img.shields.io/badge/HF%20Paper-2604.05117-34C759?style=flat)](https://huggingface.co/papers/2604.05117)
 
