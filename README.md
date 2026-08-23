@@ -11,7 +11,7 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 ### EMNLP 2026
 
-- **Main Conference:** [WebWorld](https://openreview.net/pdf/2a006ca014a3d40c8be1bafca190aebbc50419a0.pdf), [OpenSkill](https://arxiv.org/abs/2606.06741), and [VGI-BENCH](https://arxiv.org/abs/2608.19583)
+- **Main Conference:** **WebWorld**, [OpenSkill](https://arxiv.org/abs/2606.06741), and [VGI-BENCH](https://arxiv.org/abs/2608.19583)
 - **Findings:** [ClawBench](https://arxiv.org/abs/2604.08523)
 - **System Demonstrations:** [Dr. Claw](https://openlair.github.io/dr-claw/)
 
@@ -54,7 +54,7 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/newspaper.svg" width="22">&nbsp;&nbsp;News</h3>
 
-- **2026.08**: Five papers accepted at EMNLP 2026: [**WebWorld**](https://openreview.net/pdf/2a006ca014a3d40c8be1bafca190aebbc50419a0.pdf), [**OpenSkill**](https://arxiv.org/abs/2606.06741), and [**VGI-BENCH**](https://arxiv.org/abs/2608.19583) at the Main Conference; [**ClawBench**](https://arxiv.org/abs/2604.08523) in Findings; and [**Dr. Claw**](https://openlair.github.io/dr-claw/) in System Demonstrations.
+- **2026.08**: Five papers accepted at EMNLP 2026: **WebWorld**, [**OpenSkill**](https://arxiv.org/abs/2606.06741), and [**VGI-BENCH**](https://arxiv.org/abs/2608.19583) at the Main Conference; [**ClawBench**](https://arxiv.org/abs/2604.08523) in Findings; and [**Dr. Claw**](https://openlair.github.io/dr-claw/) in System Demonstrations.
 - **2026.04**: New paper: [**ClawBench: Can AI Agents Complete Everyday Online Tasks?**](https://arxiv.org/abs/2604.08523); 153 real-world tasks, 144 live websites, 7 frontier models. Best model: 33.3%.
   - [![arXiv](https://img.shields.io/badge/arXiv-2604.08523-FF3B30?style=flat)](https://arxiv.org/abs/2604.08523) [![Dashboard](https://img.shields.io/badge/Dashboard-claw--bench.com-6155F5?style=flat)](https://claw-bench.com) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-34C759?style=flat)](https://huggingface.co/datasets/TIGER-Lab/ClawBench) [![PyPI](https://img.shields.io/badge/PyPI-clawbench--eval-FF9500?style=flat)](https://pypi.org/project/clawbench-eval/)
 - **2026.04**: New paper: [**VidGround: Watch Before You Answer**](https://arxiv.org/abs/2604.05117); visually grounded post-training for video LLMs.
