@@ -30,7 +30,7 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 > [Paper](https://arxiv.org/abs/2604.05117) · [Project Page](https://vidground.etuagi.com/) · [HF Paper](https://huggingface.co/papers/2604.05117)
 
 **[Dr. Claw: Your AI Research Assistant](https://github.com/OpenLAIR/dr-claw)** [![GitHub Stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)](https://github.com/OpenLAIR/dr-claw/stargazers)
-> EMNLP 2026 System Demonstration · A full-stack research workspace for taking projects from idea to paper.
+> EMNLP 2026 System Demonstrations · A full-stack research workspace for taking projects from idea to paper.
 >
 > [Homepage](https://openlair.github.io/dr-claw) · [npm](https://www.npmjs.com/package/dr-claw) · [Releases](https://github.com/OpenLAIR/dr-claw/releases)
 
