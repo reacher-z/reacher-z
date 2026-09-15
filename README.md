@@ -46,6 +46,20 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 
 ---
 
+<h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/file-lines.svg" width="22" alt="">&nbsp;&nbsp;Research Guides & Runnable Examples</h3>
+
+| Research question | Try the teaching resource | Original work |
+| --- | --- | --- |
+| Does valid structured output preserve the requested fields and values? | [StructEval CPU mini-lab](https://yuxuan.world/research/papers/structeval/mini-lab/) · [Two-minute walkthrough](https://yuxuan.world/research/videos/structeval-walkthrough/) | [StructEval](https://arxiv.org/abs/2505.20139) |
+| Does a retrieved paper actually support the claim being written? | [Citation evidence worksheet](https://yuxuan.world/blog/citation-evidence-checks/) | [ScholarCopilot](https://arxiv.org/abs/2504.00824) |
+| What does a text-only video-question probe establish? | [VidGround probe-log mini-lab](https://yuxuan.world/research/papers/vid-filter/probe-lab/) | [Watch Before You Answer](https://arxiv.org/abs/2604.05117) |
+
+These coauthor-maintained resources use handwritten examples, not new model experiments. The citation worksheet is a separate reading exercise, not a ScholarCopilot capability. Retaining a question after a text-only probe does not by itself prove visual dependence. Scripts, inputs, scope notes and original sources are linked from each resource; the video uses synthetic narration.
+
+[All publications and citation materials](https://yuxuan.world/publications/) · [Research program](https://yuxuan.world/research/)
+
+---
+
 <h3><img src="https://raw.githubusercontent.com/reacher-z/reacher-z/main/icons/chart-line.svg" width="22">&nbsp;&nbsp;GitHub Activity</h3>
 
 <img src="https://ghchart.rshah.org/6155F5/reacher-z" alt="GitHub Contribution Graph" />
