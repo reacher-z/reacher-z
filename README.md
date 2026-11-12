@@ -24,6 +24,11 @@ PhD student at **University of British Columbia** · Affiliated with **Vector In
 >
 > [Paper](https://arxiv.org/abs/2604.08523) · [Dashboard](https://claw-bench.com) · [Dataset](https://huggingface.co/datasets/TIGER-Lab/ClawBench) · [PyPI](https://pypi.org/project/clawbench-eval/)
 
+**[WebsiteBench: Can AI Agents Rebuild Websites through Browser Exploration?](https://github.com/TIGER-AI-Lab/WebsiteBench)**
+> Benchmarking full-stack website reconstruction from browser exploration · 70 websites · 46,916 hidden test cases.
+>
+> [Website](https://website-bench.com/) · [Code](https://github.com/TIGER-AI-Lab/WebsiteBench) · [Dataset](https://huggingface.co/datasets/TIGER-Lab/WebsiteBench)
+
 **[VidGround: Watch Before You Answer](https://github.com/reacher-z/vidground)** [![GitHub Stars](https://img.shields.io/github/stars/reacher-z/vidground?style=social)](https://github.com/reacher-z/vidground/stargazers)
 > Visually grounded post-training for video LLMs.
 >
